@@ -1,3 +1,3 @@
 # VoronMods
 
-This is where I publish my various modifications to Voron Printers
+Various modifications to Voron 3D Printers
