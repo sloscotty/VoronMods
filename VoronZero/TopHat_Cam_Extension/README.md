@@ -37,7 +37,7 @@
  ![](Images/USB_Cable_Path.jpg)
  
  Note: Place the end of the cable as far forward as possible.  You might want to cut away the heatshrink on the end to help seat  it better.
- Notice the position of the cable in the curved portion of the path - this is intended to provide some strain-reliev when the camera
+ Notice the position of the cable in the curved portion of the path - this is intended to provide some strain-relief when the camera
  arm is folded down.
  
  ![](Images/Insert_USBcable.jpg)
