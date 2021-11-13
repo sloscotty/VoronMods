@@ -46,11 +46,11 @@
  
  ![](Images/Arm_Cover_Assembly.jpg)
 
-## E.  Install the left and right spacers.
+## E.  Install the right and left spacers.
  Keeping the cable in the tunnel, flip the right spacer(s) and arm assembly over and press down on the top extrusion until
  the tabs "click" into place.  Install the left spacer(s) similarly.
  
-## F.  Instll the front and rear spacers.
+## F.  Install the front and rear spacers.
  Place the tophat in place on the left/right spacers and intall the front/rear spacers.  It will help to open the door and remove the back panel for this step.
  Hint for split spacers. Apply VHB across seam before attaching to panel. (Be careful that each panel rests firmly on the shelf of the spacer.)
  
@@ -63,9 +63,14 @@
  
  ![](Images/Camera_Assembly.jpg)
  
-## H.  Install camera assembly.
+## H.  Install camera assembly and route USB cable through back panel.
  Plug the USB cable into the camera and attach camera base to ball mount. (Note: If the base seems too loose, you may want to scale up the ball mount a bit and reprint.
  A little loose is OK, because the camera will probably be tilted all the way down for best image position.)
+ 
+ When routing the USB cable through the back panel, take care to keep the cable from interfering with the filament spool.  You may need to drill a couple of holes
+ for a zip-tie or two to hold the cable against the panel.  Many ways to do this. I cut a slit on the far side of my panel as shown below.
+ 
+ ![picture soon](Images/Back_Panel.jpg)
  
 ## Optional
  Included in the Optional folder is Arm_Catch.stl.  This part is designed to hold the arm in place in the folded-up position.
