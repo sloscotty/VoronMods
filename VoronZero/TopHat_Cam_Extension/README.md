@@ -78,13 +78,6 @@
  
  ![picture soon](Images/Back_Panel.jpg)
  
-## Optional
-
- Included in the Optional folder is Arm_Catch.stl.  This part is designed to hold the arm in place in the folded-up position.
- To install, apply some VHB and hold it on the camera arm as you fold it up to affix it to panel.
- 
- ![](Images/ArmCatch.jpg)
- 
 ## Notes
  
 **Camera Configuration**  
