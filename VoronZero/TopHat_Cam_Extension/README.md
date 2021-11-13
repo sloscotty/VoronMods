@@ -20,6 +20,7 @@
 # Directions
  
 ## A. Print the parts
+
  The parts for this mod should be printed with standard Voron quality settings.  It is assumed that they will be printed
  on a Voron V0 or V0.1.  All parts in the top-level STLs folder can be printed on the 120x120 bed.  The _Spacer_ parts have been split from the CAD
  in order to accomodate this. They will still need to be rotated 45 degrees to fit.  (It is suggested to set the infill angle to 90 degrees to print the rotated parts.)
@@ -47,16 +48,19 @@
  ![](Images/Arm_Cover_Assembly.jpg)
 
 ## E.  Install the right and left spacers.
+
  Keeping the cable in the tunnel, flip the right spacer(s) and arm assembly over and press down on the top extrusion until
  the tabs "click" into place.  Install the left spacer(s) similarly.
  
 ## F.  Install the front and rear spacers.
+
  Place the tophat in place on the left/right spacers and intall the front/rear spacers.  It will help to open the door and remove the back panel for this step.
  Hint for split spacers. Apply VHB across seam before attaching to panel. (Be careful that each panel rests firmly on the shelf of the spacer.)
  
  ![](Images/VHB_FrontRear_Spacers.jpg)
  
 ## G.  Prepare the Arducam and assemble the camera case.
+
  Cut away the outer portion of the PCB (as close to the inner PCB as possible).
  
  ![](Images/Prepare_Arducam.jpg)
@@ -64,6 +68,7 @@
  ![](Images/Camera_Assembly.jpg)
  
 ## H.  Install camera assembly and route USB cable through back panel.
+
  Plug the USB cable into the camera and attach camera base to ball mount. (Note: If the base seems too loose, you may want to scale up the ball mount a bit and reprint.
  A little loose is OK, because the camera will probably be tilted all the way down for best image position.)
  
@@ -73,9 +78,29 @@
  ![picture soon](Images/Back_Panel.jpg)
  
 ## Optional
+
  Included in the Optional folder is Arm_Catch.stl.  This part is designed to hold the arm in place in the folded-up position.
  To install, apply some VHB and hold it on the camera arm as you fold it up to affix it to panel.
  
  ![](Images/ArmCatch.jpg)
  
+## Notes
  
+**Camera Configuration**  
+The default configuration ("auto") for this webcam didn't work for me.  I edited ~/klipper_config/webcam.txt as follows (YMMV):
+
+	# Defaults to auto
+	#
+	camera="usb"
+
+	### Additional options to supply to MJPG Streamer for the USB camera
+	# Defaults to a resolution of 640x480 px and a framerate of 10 fps
+	#
+	camera_usb_options="-r 640x480 -f 10"
+
+Even though this camera is capable of higher resolutions, they don't show enough of the bed.
+
+**Spacers too short/long?**  
+The provided one-piece left/right spacers in the Optional folder have been scaled to 100.4% (which fit my V0.1 fine).
+If your prints come out differently, I suggest re-exporting the spacers from the CAD and scaling them appropriately.
+(The split spacers are not scaled and should fit as is.)
