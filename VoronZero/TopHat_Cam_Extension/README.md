@@ -1,9 +1,9 @@
-# TopHat Cam Extension for V0/0.1
+# NoNutz™ TopHat Cam Extension for V0/0.1
 
 ![](Images/THCE_Overview.jpg)
 
  A tophat extension that adds 7mm in height and a webcam below the tophat.
- It does not require replacing any parts on the tophat itself and can be considered a "drop-in" modification.
+ It does not require replacing any parts on the tophat itself and can be considered a "drop-in" modification. No nuts required!
  
  The camera housing is designed around the [Arducam USB Camera Module with 8MP Sony IMX219](https://www.uctronics.com/download/Amazon/B0196.pdf)
  
@@ -11,7 +11,7 @@
  
 ## BOM
  - (1) [Arducam USB Camera Module](https://www.arducam.com/product/b0196arducam-8mp-1080p-usb-camera-module-1-4-cmos-imx219-mini-uvc-usb2-0-webcam-board-with-1-64ft-0-5m-usb-cable-for-windows-linux-android-and-mac-os/) (Also available on Amazon)
- - (1) m3x5x4 heatset insert
+ - (1) m3x5x4 heat-set insert
  - (2) m3x10 BHCS
  - (1) m3x6x0.5 shim
  - (6) m2x10 self-tapping screws
