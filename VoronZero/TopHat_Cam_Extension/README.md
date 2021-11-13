@@ -27,7 +27,8 @@
  
  If you have a larger printer, the un-split parts are available in the STLs/Optional folder.
  
- If you don't care about the camera and just want the spacers, the right spacer parts without the camera stuff are also in Optional folder.
+ **NoCam Option**  
+ If you don't care about the camera and just want the spacers, the right spacer parts (both split/un-split) without the camera stuff are also in the Optional folder.
  
 ## B.  Prepare the camera arm and attach to right spacer.
  
