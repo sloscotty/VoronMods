@@ -94,12 +94,16 @@ The default configuration ("auto") for this webcam didn't work for me.  I edited
 
 Even though this camera is capable of higher resolutions, they don't show enough of the bed.
 
+**Fold-up the camera**  
+In use:  When opening the door with the camera down, the curved portion of the arm cover will cause the arm to automatically start folding up.
+***However, it will not fold up completely out of the way without manual assistance.***  This "feature" is meant to provide a visual cue to prevent breakage.
+
 **Spacers too short/long?**  
 The provided one-piece left/right spacers in the Optional folder have been scaled to 100.4% (which fit my V0.1 fine).
 If your prints come out differently, I suggest re-exporting the spacers from the CAD and scaling them appropriately.
 (The split spacers are not scaled and should fit as is.)
 
-## Photos
+## More Photos
 
 ![](Images/THCE_Top.jpg)
 
