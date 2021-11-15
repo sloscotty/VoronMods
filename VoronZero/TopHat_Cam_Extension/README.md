@@ -2,12 +2,12 @@
 
 ![](Images/TopHat_Cam_Extension_Installed.jpg)
 
- A tophat extension that adds 7mm in height and a webcam below the tophat.
+ This modification provides a tophat extension that adds 7mm in height to help clear the umbilical.  It includes a fold-up webcam below the tophat.
  It does not require replacing any parts on the tophat itself and can be considered a "drop-in" modification. No nuts required!
  
- The camera housing is designed around the [Arducam USB Camera Module with 8MP Sony IMX219](https://www.uctronics.com/download/Amazon/B0196.pdf)
+![](Images/Tophat_Cam_Extension.jpg)
  
- ![](Images/Tophat_Cam_Extension.jpg)
+ The camera housing is designed around the [Arducam USB Camera Module with 8MP Sony IMX219](https://www.uctronics.com/download/Amazon/B0196.pdf)
  
 ## BOM
  - (1) [Arducam USB Camera Module](https://www.arducam.com/product/b0196arducam-8mp-1080p-usb-camera-module-1-4-cmos-imx219-mini-uvc-usb2-0-webcam-board-with-1-64ft-0-5m-usb-cable-for-windows-linux-android-and-mac-os/) (Also available on Amazon)
@@ -99,10 +99,10 @@ The provided one-piece left/right spacers in the Optional folder have been scale
 If your prints come out differently, I suggest re-exporting the spacers from the CAD and scaling them appropriately.
 (The split spacers are not scaled and should fit as is.)
 
-** Photos **
+## Photos
 
 ![](Images/THCE_Top.jpg)
 
 ![](Images/THCE_without_TH.jpg)
 
-![](Cam_View.jpg)
+![](Images/Cam_View.jpg)
