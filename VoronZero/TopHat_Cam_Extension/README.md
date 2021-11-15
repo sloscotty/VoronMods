@@ -1,6 +1,6 @@
 # NoNutz™ TopHat Cam Extension for V0/0.1
 
-![](Images/THCE_Overview.jpg)
+![](Images/TopHat_Cam_Extension_Installed.jpg)
 
  A tophat extension that adds 7mm in height and a webcam below the tophat.
  It does not require replacing any parts on the tophat itself and can be considered a "drop-in" modification. No nuts required!
@@ -76,7 +76,7 @@
  When routing the USB cable through the back panel, take care to keep the cable from interfering with the filament spool.  You may need to drill a couple of holes
  for a zip-tie or two to hold the cable against the panel.  Many ways to do this. I cut a slit on the far side of my panel as shown below.
  
- ![picture soon](Images/Back_Panel.jpg)
+ ![](Images/Back_Panel.jpg)
  
 ## Notes
  
@@ -98,3 +98,11 @@ Even though this camera is capable of higher resolutions, they don't show enough
 The provided one-piece left/right spacers in the Optional folder have been scaled to 100.4% (which fit my V0.1 fine).
 If your prints come out differently, I suggest re-exporting the spacers from the CAD and scaling them appropriately.
 (The split spacers are not scaled and should fit as is.)
+
+** Photos **
+
+![](Images/THCE_Top.jpg)
+
+![](Images/THCE_without_TH.jpg)
+
+![](Cam_View.jpg)
